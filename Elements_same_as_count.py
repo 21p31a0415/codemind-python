@@ -4,7 +4,7 @@ m=[]
 p=[]
 c=0
 for i in a:
-    if(i==a.count(i)):
+    if (i==a.count(i)):
         c+=1
         m.append(i)
 for i in m:
